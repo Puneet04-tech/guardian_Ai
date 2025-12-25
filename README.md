@@ -41,7 +41,7 @@ New analysis & integration endpoints:
 - ✅ Integrates Gemini 2.5 Flash via API (optional gcloud CLI support available)
 - ✅ Solves $200B annual security spending problem with AI automation
 
-View your app in AI Studio: https://ai.studio/apps/drive/1juDPrvEiHyYxMiHI6kBWI1VhbFwZ7NhL
+
 
 ## 🎯 Agent by Agent: How GuardianAI Works
 

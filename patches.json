@@ -1,0 +1,140 @@
+{
+  "patches": [
+    {
+      "id": "patch-1766569347431-4360",
+      "repoUrl": "https://github.com/example/repo",
+      "patches": [
+        {
+          "path": "README.md",
+          "updatedContent": "# Demo Fix\n\nThis is a demo edit for https://github.com/example/repo since the Gemini API quota was exceeded or for testing purposes.\n\n- Note: Replace this with a real fix once the AI quota is available.",
+          "summary": "Demo README update because Gemini quota exceeded (simulated edit)"
+        },
+        {
+          "path": "src/demo-security-fix.js",
+          "updatedContent": "// Demo security fix - placeholder\n// Replace with AI generated fix when quota allows\nmodule.exports = { fixed: true };",
+          "summary": "Demo placeholder fix"
+        }
+      ],
+      "createdAt": "2025-12-24T09:42:27.432Z",
+      "source": "demo",
+      "demoFallback": true
+    },
+    {
+      "id": "patch-1766585340546-1016",
+      "repoUrl": "https://github.com/Puneet04-tech/nlp_emotion_detection_project",
+      "patches": [
+        {
+          "path": "README.md",
+          "updatedContent": "# Demo Fix\n\nThis is a demo edit for https://github.com/Puneet04-tech/nlp_emotion_detection_project since the Gemini API quota was exceeded or for testing purposes.\n\n- Note: Replace this with a real fix once the AI quota is available.",
+          "summary": "Demo README update because Gemini quota exceeded (simulated edit)"
+        },
+        {
+          "path": "src/demo-security-fix.js",
+          "updatedContent": "// Demo security fix - placeholder\n// Replace with AI generated fix when quota allows\nmodule.exports = { fixed: true };",
+          "summary": "Demo placeholder fix"
+        }
+      ],
+      "createdAt": "2025-12-24T14:09:00.547Z",
+      "source": "demo",
+      "demoFallback": true
+    },
+    {
+      "id": "patch-1766585346301-1507",
+      "repoUrl": "https://github.com/Puneet04-tech/nlp_emotion_detection_project",
+      "patches": [
+        {
+          "path": "README.md",
+          "updatedContent": "# Demo Fix\n\nThis is a demo edit for https://github.com/Puneet04-tech/nlp_emotion_detection_project since the Gemini API quota was exceeded or for testing purposes.\n\n- Note: Replace this with a real fix once the AI quota is available.",
+          "summary": "Demo README update because Gemini quota exceeded (simulated edit)"
+        },
+        {
+          "path": "src/demo-security-fix.js",
+          "updatedContent": "// Demo security fix - placeholder\n// Replace with AI generated fix when quota allows\nmodule.exports = { fixed: true };",
+          "summary": "Demo placeholder fix"
+        }
+      ],
+      "createdAt": "2025-12-24T14:09:06.301Z",
+      "source": "pr",
+      "demoFallback": false,
+      "prUrl": "https://github.com/Puneet04-tech/nlp_emotion_detection_project/pull/1"
+    },
+    {
+      "id": "patch-1766639063007-6986",
+      "repoUrl": "https://github.com/Puneet04-tech/Microsoft_Club",
+      "patches": [
+        {
+          "path": "README.md",
+          "updatedContent": "# Demo Fix\n\nThis is a demo edit for https://github.com/Puneet04-tech/Microsoft_Club since the Gemini API quota was exceeded or for testing purposes.\n\n- Note: Replace this with a real fix once the AI quota is available.",
+          "summary": "Demo README update because Gemini quota exceeded (simulated edit)"
+        },
+        {
+          "path": "src/demo-security-fix.js",
+          "updatedContent": "// Demo security fix - placeholder\n// Replace with AI generated fix when quota allows\nmodule.exports = { fixed: true };",
+          "summary": "Demo placeholder fix"
+        }
+      ],
+      "createdAt": "2025-12-25T05:04:23.007Z",
+      "source": "demo",
+      "demoFallback": true
+    },
+    {
+      "id": "patch-1766639084129-7854",
+      "repoUrl": "https://github.com/Puneet04-tech/Microsoft_Club",
+      "patches": [
+        {
+          "path": "README.md",
+          "updatedContent": "# Demo Fix\n\nThis is a demo edit for https://github.com/Puneet04-tech/Microsoft_Club since the Gemini API quota was exceeded or for testing purposes.\n\n- Note: Replace this with a real fix once the AI quota is available.",
+          "summary": "Demo README update because Gemini quota exceeded (simulated edit)"
+        },
+        {
+          "path": "src/demo-security-fix.js",
+          "updatedContent": "// Demo security fix - placeholder\n// Replace with AI generated fix when quota allows\nmodule.exports = { fixed: true };",
+          "summary": "Demo placeholder fix"
+        }
+      ],
+      "createdAt": "2025-12-25T05:04:44.129Z",
+      "source": "pr",
+      "demoFallback": false,
+      "prUrl": "https://github.com/Puneet04-tech/Microsoft_Club/pull/2"
+    },
+    {
+      "id": "patch-1766645904246-7437",
+      "repoUrl": "https://github.com/Puneet04-tech/nlp_emotion_detection_project",
+      "patches": [
+        {
+          "path": "README.md",
+          "updatedContent": "# Demo Fix\n\nThis is a demo edit for https://github.com/Puneet04-tech/nlp_emotion_detection_project since the Gemini API quota was exceeded or for testing purposes.\n\n- Note: Replace this with a real fix once the AI quota is available.",
+          "summary": "Demo README update because Gemini quota exceeded (simulated edit)"
+        },
+        {
+          "path": "src/demo-security-fix.js",
+          "updatedContent": "// Demo security fix - placeholder\n// Replace with AI generated fix when quota allows\nmodule.exports = { fixed: true };",
+          "summary": "Demo placeholder fix"
+        }
+      ],
+      "createdAt": "2025-12-25T06:58:24.249Z",
+      "source": "demo",
+      "demoFallback": true
+    },
+    {
+      "id": "patch-1766645906214-3013",
+      "repoUrl": "https://github.com/Puneet04-tech/nlp_emotion_detection_project",
+      "patches": [
+        {
+          "path": "README.md",
+          "updatedContent": "# Demo Fix\n\nThis is a demo edit for https://github.com/Puneet04-tech/nlp_emotion_detection_project since the Gemini API quota was exceeded or for testing purposes.\n\n- Note: Replace this with a real fix once the AI quota is available.",
+          "summary": "Demo README update because Gemini quota exceeded (simulated edit)"
+        },
+        {
+          "path": "src/demo-security-fix.js",
+          "updatedContent": "// Demo security fix - placeholder\n// Replace with AI generated fix when quota allows\nmodule.exports = { fixed: true };",
+          "summary": "Demo placeholder fix"
+        }
+      ],
+      "createdAt": "2025-12-25T06:58:26.214Z",
+      "source": "pr",
+      "demoFallback": false,
+      "prUrl": "https://github.com/Puneet04-tech/nlp_emotion_detection_project/pull/2"
+    }
+  ]
+}
